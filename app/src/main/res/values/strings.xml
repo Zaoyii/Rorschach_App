@@ -1,6 +1,10 @@
 <resources>
-    <string name="app_name">Rorschach</string>
+    <string name="app_name">躁抑</string>
     <string name="login">登录</string>
     <string name="username">账号</string>
-    <string name="password">密码</string>
+    <string name="enterUsername">输入账号</string>
+    <string name="enterPassword">输入密码</string>
+    <string name="Password">密码</string>
+    <string name="home">Home</string>
+    <string name="music">Music</string>
 </resources>
